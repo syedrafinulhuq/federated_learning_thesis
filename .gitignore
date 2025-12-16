@@ -1,0 +1,38 @@
+# =========================
+# Model checkpoints
+# =========================
+models/
+*.pth
+
+# =========================
+# Training logs & plots
+# =========================
+logs/
+plots/
+events.out.tfevents.*
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+
+# =========================
+# OS / editor files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Large datasets (optional)
+# =========================
+src/url.csv
