@@ -496,9 +496,7 @@ Character-level CNN with:
 
 ---
 
-# 🚀 If I Were Supervising This Thesis
-
-I would ask you to:
+# 🚀 Further Improvements
 
 1. Add FedProx
 2. Add client sampling
