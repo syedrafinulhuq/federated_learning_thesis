@@ -474,7 +474,7 @@ Character-level CNN with:
 
 # 🏁 12. Final Expert Assessment
 
-## What You Did Very Well
+## What Was Added Well
 
 * Clean modular separation
 * Proper PyTorch engineering
